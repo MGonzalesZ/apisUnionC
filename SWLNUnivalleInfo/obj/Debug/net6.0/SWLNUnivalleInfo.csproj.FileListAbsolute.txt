@@ -1,0 +1,38 @@
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\bin\Debug\net6.0\SWLNUnivalleInfo.deps.json
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\bin\Debug\net6.0\SWLNUnivalleInfo.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\bin\Debug\net6.0\SWLNUnivalleInfo.pdb
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\bin\Debug\net6.0\ENTIDADES.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\bin\Debug\net6.0\HERRAMIENTAS.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\bin\Debug\net6.0\SWADUnivalleInfo.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\bin\Debug\net6.0\ENTIDADES.pdb
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\bin\Debug\net6.0\HERRAMIENTAS.pdb
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\bin\Debug\net6.0\SWADUnivalleInfo.pdb
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\SWLNUnivalleInfo.csproj.AssemblyReference.cache
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\SWLNUnivalleInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\SWLNUnivalleInfo.AssemblyInfoInputs.cache
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\SWLNUnivalleInfo.AssemblyInfo.cs
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\SWLNUnivalleInfo.csproj.CoreCompileInputs.cache
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\SWLNUnivalleInfo.csproj.CopyComplete
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\SWLNUnivalleInfo.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\refint\SWLNUnivalleInfo.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\SWLNUnivalleInfo.pdb
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\ref\SWLNUnivalleInfo.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\bin\Debug\net6.0\SWLNUnivalleInfo.deps.json
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\bin\Debug\net6.0\SWLNUnivalleInfo.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\bin\Debug\net6.0\SWLNUnivalleInfo.pdb
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\bin\Debug\net6.0\ENTIDADES.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\bin\Debug\net6.0\HERRAMIENTAS.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\bin\Debug\net6.0\SWADUnivalleInfo.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\bin\Debug\net6.0\ENTIDADES.pdb
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\bin\Debug\net6.0\HERRAMIENTAS.pdb
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\bin\Debug\net6.0\SWADUnivalleInfo.pdb
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\SWLNUnivalleInfo.csproj.AssemblyReference.cache
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\SWLNUnivalleInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\SWLNUnivalleInfo.AssemblyInfoInputs.cache
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\SWLNUnivalleInfo.AssemblyInfo.cs
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\SWLNUnivalleInfo.csproj.CoreCompileInputs.cache
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\SWLNUnivalleInfo.csproj.CopyComplete
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\SWLNUnivalleInfo.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\refint\SWLNUnivalleInfo.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\SWLNUnivalleInfo.pdb
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWLNUnivalleInfo\obj\Debug\net6.0\ref\SWLNUnivalleInfo.dll

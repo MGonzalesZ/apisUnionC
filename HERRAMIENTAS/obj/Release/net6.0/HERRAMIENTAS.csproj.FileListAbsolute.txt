@@ -1,0 +1,11 @@
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\bin\Release\net6.0\HERRAMIENTAS.deps.json
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\bin\Release\net6.0\HERRAMIENTAS.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\bin\Release\net6.0\HERRAMIENTAS.pdb
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\obj\Release\net6.0\HERRAMIENTAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\obj\Release\net6.0\HERRAMIENTAS.AssemblyInfoInputs.cache
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\obj\Release\net6.0\HERRAMIENTAS.AssemblyInfo.cs
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\obj\Release\net6.0\HERRAMIENTAS.csproj.CoreCompileInputs.cache
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\obj\Release\net6.0\HERRAMIENTAS.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\obj\Release\net6.0\refint\HERRAMIENTAS.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\obj\Release\net6.0\HERRAMIENTAS.pdb
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\obj\Release\net6.0\ref\HERRAMIENTAS.dll

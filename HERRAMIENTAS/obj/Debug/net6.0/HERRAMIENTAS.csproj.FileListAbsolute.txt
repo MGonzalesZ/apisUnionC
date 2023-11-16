@@ -1,0 +1,22 @@
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\bin\Debug\net6.0\HERRAMIENTAS.deps.json
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\bin\Debug\net6.0\HERRAMIENTAS.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\bin\Debug\net6.0\HERRAMIENTAS.pdb
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\obj\Debug\net6.0\HERRAMIENTAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\obj\Debug\net6.0\HERRAMIENTAS.AssemblyInfoInputs.cache
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\obj\Debug\net6.0\HERRAMIENTAS.AssemblyInfo.cs
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\obj\Debug\net6.0\HERRAMIENTAS.csproj.CoreCompileInputs.cache
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\obj\Debug\net6.0\HERRAMIENTAS.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\obj\Debug\net6.0\refint\HERRAMIENTAS.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\obj\Debug\net6.0\HERRAMIENTAS.pdb
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\HERRAMIENTAS\obj\Debug\net6.0\ref\HERRAMIENTAS.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\HERRAMIENTAS\bin\Debug\net6.0\HERRAMIENTAS.deps.json
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\HERRAMIENTAS\bin\Debug\net6.0\HERRAMIENTAS.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\HERRAMIENTAS\bin\Debug\net6.0\HERRAMIENTAS.pdb
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\HERRAMIENTAS\obj\Debug\net6.0\HERRAMIENTAS.GeneratedMSBuildEditorConfig.editorconfig
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\HERRAMIENTAS\obj\Debug\net6.0\HERRAMIENTAS.AssemblyInfoInputs.cache
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\HERRAMIENTAS\obj\Debug\net6.0\HERRAMIENTAS.AssemblyInfo.cs
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\HERRAMIENTAS\obj\Debug\net6.0\HERRAMIENTAS.csproj.CoreCompileInputs.cache
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\HERRAMIENTAS\obj\Debug\net6.0\HERRAMIENTAS.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\HERRAMIENTAS\obj\Debug\net6.0\refint\HERRAMIENTAS.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\HERRAMIENTAS\obj\Debug\net6.0\HERRAMIENTAS.pdb
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\HERRAMIENTAS\obj\Debug\net6.0\ref\HERRAMIENTAS.dll

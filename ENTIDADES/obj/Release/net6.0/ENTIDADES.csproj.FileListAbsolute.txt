@@ -1,0 +1,11 @@
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\ENTIDADES\bin\Release\net6.0\ENTIDADES.deps.json
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\ENTIDADES\bin\Release\net6.0\ENTIDADES.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\ENTIDADES\bin\Release\net6.0\ENTIDADES.pdb
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\ENTIDADES\obj\Release\net6.0\ENTIDADES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\ENTIDADES\obj\Release\net6.0\ENTIDADES.AssemblyInfoInputs.cache
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\ENTIDADES\obj\Release\net6.0\ENTIDADES.AssemblyInfo.cs
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\ENTIDADES\obj\Release\net6.0\ENTIDADES.csproj.CoreCompileInputs.cache
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\ENTIDADES\obj\Release\net6.0\ENTIDADES.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\ENTIDADES\obj\Release\net6.0\refint\ENTIDADES.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\ENTIDADES\obj\Release\net6.0\ENTIDADES.pdb
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\ENTIDADES\obj\Release\net6.0\ref\ENTIDADES.dll

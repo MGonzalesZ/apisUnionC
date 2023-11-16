@@ -1,0 +1,110 @@
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\appsettings.Development.json
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\appsettings.json
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\SWUnivalleInfo.exe
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\SWUnivalleInfo.deps.json
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\SWUnivalleInfo.runtimeconfig.json
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\SWUnivalleInfo.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\SWUnivalleInfo.pdb
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Firebase.Database.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\FirebaseAdmin.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Google.Api.Gax.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Google.Api.Gax.Rest.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Google.Apis.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Google.Apis.Auth.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Google.Apis.Core.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\System.Reactive.Core.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\System.Reactive.Interfaces.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\System.Reactive.Linq.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\System.Reactive.PlatformServices.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\ENTIDADES.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\HERRAMIENTAS.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\SWADUnivalleInfo.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\SWLNUnivalleInfo.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\ENTIDADES.pdb
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\SWLNUnivalleInfo.pdb
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\HERRAMIENTAS.pdb
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\SWADUnivalleInfo.pdb
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.csproj.AssemblyReference.cache
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.AssemblyInfoInputs.cache
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.AssemblyInfo.cs
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.csproj.CoreCompileInputs.cache
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.MvcApplicationPartsAssemblyInfo.cs
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.MvcApplicationPartsAssemblyInfo.cache
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\staticwebassets\msbuild.SWUnivalleInfo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\staticwebassets\msbuild.build.SWUnivalleInfo.props
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SWUnivalleInfo.props
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SWUnivalleInfo.props
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\staticwebassets.build.json
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\staticwebassets.development.json
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\scopedcss\bundle\SWUnivalleInfo.styles.css
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.csproj.CopyComplete
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\refint\SWUnivalleInfo.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.pdb
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.genruntimeconfig.cache
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\ref\SWUnivalleInfo.dll
+D:\Univalle\6to Semestre\Proyecto de Sistemas III\Proyecto\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\FirebasePrivateKey.json
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\appsettings.Development.json
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\appsettings.json
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\FirebasePrivateKey.json
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\SWUnivalleInfo.exe
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\SWUnivalleInfo.deps.json
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\SWUnivalleInfo.runtimeconfig.json
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\SWUnivalleInfo.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\SWUnivalleInfo.pdb
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Firebase.Database.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\FirebaseAdmin.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Google.Api.Gax.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Google.Api.Gax.Rest.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Google.Apis.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Google.Apis.Auth.PlatformServices.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Google.Apis.Auth.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Google.Apis.Core.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\System.Reactive.Core.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\System.Reactive.Interfaces.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\System.Reactive.Linq.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\System.Reactive.PlatformServices.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\ENTIDADES.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\HERRAMIENTAS.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\SWADUnivalleInfo.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\SWLNUnivalleInfo.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\ENTIDADES.pdb
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\SWLNUnivalleInfo.pdb
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\HERRAMIENTAS.pdb
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\bin\Debug\net6.0\SWADUnivalleInfo.pdb
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.csproj.AssemblyReference.cache
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.AssemblyInfoInputs.cache
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.AssemblyInfo.cs
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.csproj.CoreCompileInputs.cache
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.MvcApplicationPartsAssemblyInfo.cs
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.MvcApplicationPartsAssemblyInfo.cache
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\staticwebassets\msbuild.SWUnivalleInfo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\staticwebassets\msbuild.build.SWUnivalleInfo.props
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SWUnivalleInfo.props
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SWUnivalleInfo.props
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\staticwebassets.build.json
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\staticwebassets.development.json
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\scopedcss\bundle\SWUnivalleInfo.styles.css
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.csproj.CopyComplete
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\refint\SWUnivalleInfo.dll
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.pdb
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\SWUnivalleInfo.genruntimeconfig.cache
+D:\descargas de mega\SWUnivalleInfo 1\SWUnivalleInfo\SWUnivalleInfo\obj\Debug\net6.0\ref\SWUnivalleInfo.dll
